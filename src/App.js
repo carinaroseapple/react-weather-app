@@ -10,3 +10,5 @@ function App() {
     </div>
   );
 }
+
+App();
