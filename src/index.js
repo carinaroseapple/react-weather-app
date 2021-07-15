@@ -4,15 +4,6 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-function App() {
-  return (
-    <div className="WeatherApp">
-      <h1>Weather App</h1>
-      <Weather />
-    </div>
-  );
-}
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
