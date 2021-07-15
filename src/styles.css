@@ -1,0 +1,10 @@
+.WeatherApp {
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
+}
+
+ul {
+  list-style-type: none;
+  color: black;
+}
